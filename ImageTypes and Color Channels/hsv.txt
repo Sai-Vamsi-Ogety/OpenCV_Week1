@@ -1,0 +1,5 @@
+On the left hand side we have our hue channel which indicates the type of color that we see in a 360 degree format. 
+In the middle we have our saturation value which has an indication of how saturated an individual color is and 
+on the far right we have the value channel, which indicates only how luminous the channel is. 
+You can notice for example in the hue section all the leaf appears to be about the same color, the same shade of dark. 
+This is one way that it may be more efficient to operate in the hsv space than the rgb space if for example we want to isolate a particular color. Keep in mind the different color profiles available as you're working through more sophisticated filtering and processing you may find a task nearly impossible to complete in one color space but is trivial in another.
